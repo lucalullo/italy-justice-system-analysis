@@ -1,4 +1,6 @@
 # Italy Justice System (2003–2024) — Data Analysis
+🔗 Dataset ufficiale pubblicato su Kaggle:  
+https://www.kaggle.com/datasets/lucalullo/italy-justice-system-2003-2024
 
 Analisi esplorativa del sistema giudiziario italiano basata su dati ufficiali dal 2003 al 2024.
 
