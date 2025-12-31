@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Italy Justice System (2003–2024) — Data Analysis
 🔗 Dataset ufficiale pubblicato su Kaggle:  
 https://www.kaggle.com/datasets/lucalullo/italy-justice-system-2003-2024
